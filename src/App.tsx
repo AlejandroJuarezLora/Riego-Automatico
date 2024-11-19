@@ -1,5 +1,4 @@
 
-import './App.css'
 import Zonas from './zonas'
 import TemperatureChart from './chartTemperatura'
 
